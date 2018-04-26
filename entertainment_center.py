@@ -32,4 +32,6 @@ school_of_rock = media.Movie("School of Rock",
 
 movies = [toy_story, avatar, midnight_in_paris, hunger_games, ratatouille, school_of_rock]
 
-fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.VALID_RATINGS)
+
+#fresh_tomatoes.open_movies_page(movies)
